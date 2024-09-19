@@ -58,7 +58,7 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <sparkVersion>2.1.0-SNAPSHOT</sparkVersion>
+        <sparkVersion>2.2.3</sparkVersion>
       </properties>
       <dependencies>
           <dependency>
